@@ -133,7 +133,7 @@ class myApp extends StatelessWidget {
                   ),
                   const SizedBox(height: 100),
                   Container(
-                    height: 50,
+                    height: 49,
                     width: 300,
                     decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(10),
